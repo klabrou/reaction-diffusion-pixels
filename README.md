@@ -1,1 +1,1 @@
-# reaction-diffusion-pixels
+ Lillian Schwartz / Ken Knowlton 'Pixillation' Recreation
